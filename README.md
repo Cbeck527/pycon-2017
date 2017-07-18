@@ -1,3 +1,3 @@
-# PyCon 2017
+# Talks
 
 A collection of proposal documents, notes, and slides
